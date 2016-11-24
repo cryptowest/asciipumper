@@ -1,8 +1,10 @@
+IRC color code art paint program and generator. Windows
+
+All content in the /ascii folder is included for completion and is not my own.
+
 Ascii Pumper by Lampiasis <lampiasis@dvolker.com>
 http://code.google.com/p/asciipumper/
 version 1.1.0.0
-IRC:	Pumpnet irc.pp4l.info #chilled #penispump
-		Efnet #pp4l
 
 IMPORTANT
 This program requires the .NET Framework 2.0 to run.
